@@ -173,6 +173,7 @@ include/target.h
 # Octave
 octave-workspace
 *.mex
+*.mex???
 
 # eps figures
 *.eps
@@ -181,3 +182,10 @@ octave-workspace
 *.aux
 *.log
 *.toc
+
+# VS Code
+.vscode
+
+# Build dir
+build
+
